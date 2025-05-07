@@ -1,0 +1,74 @@
+
+
+body{
+    display: inline-block;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 100%;
+    height: 100vh;
+    vertical-align: top;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+
+.quoteoftheday{
+    position: relative;
+    border: 2px solid orange;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 1.3rem;
+    padding: 20px;
+    margin: 20px auto;
+
+
+}
+
+.cities{
+    display: block;
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+
+p{
+    font-size: 1.2rem;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    
+}
+#weather_report{
+    display: block;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+
+    padding: 20px;
+    margin: 20px auto;
+    gap: 10px;
+
+
+}
+
+
+#zurich_data{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    height: 10vh;
+}
+
+
+#bern_data{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    height: 10vh;
+}
+
+
+#geneva_data{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    height: 10vh;
+}
